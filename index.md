@@ -4,6 +4,7 @@ description = "Another cigarrette before I hit the road"
 author = "Justin Napolitano"
 tags = ["lifestyle","anxiety"]
 images = ["images/feature-image.png"]
+categories = ['Personal']
 date = "2024-06-30"
 +++
 
