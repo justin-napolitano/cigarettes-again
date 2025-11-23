@@ -1,21 +1,21 @@
 # cigarettes-again
 
-A personal reflective journal entry repository capturing thoughts and feelings around smoking cigarettes, lifestyle, and anxiety. This repo contains markdown files that document personal experiences and musings.
+A personal reflective journal repository capturing thoughts and feelings around smoking cigarettes, lifestyle, and anxiety. This repository contains markdown files documenting personal experiences and musings in a simple, minimal format.
 
 ## Features
 
-- Personal journal style markdown content
-- Focus on lifestyle and anxiety themes
-- Simple, minimal structure for easy reading and editing
+- Personal journal-style markdown content
+- Focus on themes of lifestyle and anxiety
+- Minimal structure for straightforward reading and editing
 
 ## Tech Stack
 
-- Markdown for content
-- Static site generator or markdown viewer assumed (not included)
+- Markdown for content formatting
+- Assumes use of a static site generator or markdown viewer (not included)
 
 ## Getting Started
 
-Since this repository contains markdown files for personal reflections, you can clone the repo and read the markdown files locally or use a markdown viewer.
+Clone the repository and open the markdown files locally with your preferred markdown viewer or editor.
 
 ```bash
 git clone https://github.com/justin-napolitano/cigarettes-again.git
@@ -33,10 +33,10 @@ images/      # Folder for images referenced in markdown (assumed)
 ## Future Work / Roadmap
 
 - Add more journal entries or reflections
-- Integrate with a static site generator for a personal blog
+- Integrate with a static site generator for personal blog deployment
 - Add tagging and categorization features
-- Include more multimedia content
+- Include multimedia content beyond markdown
 
 ---
 
-*Note: This repository appears to be a personal journal or blog content repository rather than a software project.*
+*Note: This repository functions primarily as a personal journal or blog content archive rather than a software project.*
