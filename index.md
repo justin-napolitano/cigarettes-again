@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - toml front matter
   - reflective writing
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post describes a personal markdown journal focused on reflections related to smoking,
+  lifestyle, and anxiety. The content emphasizes journaling, personal content archiving, and
+  lifestyle reflection, which aligns best with the 'Personal' category dedicated to personal
+  journals and reflections.
 ---
 
 # cigarettes-again: Project Overview and Implementation Notes
@@ -59,3 +66,4 @@ The project addresses the need for a lightweight, personal record-keeping system
 ## Summary
 
 This repository is a straightforward personal content archive using markdown to document reflections. Its minimal design prioritizes ease of use and flexibility over automation or feature richness. It is best understood as a content container, with potential for future extension into a more structured blog or journal platform.
+
