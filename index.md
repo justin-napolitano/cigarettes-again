@@ -1,12 +1,26 @@
 ---
-slug: "github-cigarettes-again"
-title: "cigarettes-again"
-repo: "justin-napolitano/cigarettes-again"
-githubUrl: "https://github.com/justin-napolitano/cigarettes-again"
-generatedAt: "2025-11-23T08:43:16.250048Z"
-source: "github-auto"
+slug: github-cigarettes-again
+title: 'Cigarettes-Again: Personal Markdown Journal for Reflective Writing'
+repo: justin-napolitano/cigarettes-again
+githubUrl: https://github.com/justin-napolitano/cigarettes-again
+generatedAt: '2025-11-23T08:43:16.250048Z'
+source: github-auto
+summary: >-
+  A minimal personal content archive using markdown and TOML front matter for journaling reflections
+  on smoking and lifestyle.
+tags:
+  - markdown
+  - personal-journal
+  - content-archive
+  - toml
+  - static-site-generator
+seoPrimaryKeyword: personal markdown journal
+seoSecondaryKeywords:
+  - content archive
+  - toml front matter
+  - reflective writing
+seoOptimized: true
 ---
-
 
 # cigarettes-again: Project Overview and Implementation Notes
 
