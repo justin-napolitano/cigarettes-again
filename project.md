@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/cigarettes-again
 generatedAt: '2025-11-24T21:34:13.005Z'
 source: github-auto
 summary: >-
-  A markdown-based personal journal reflecting on smoking, lifestyle, and
-  anxiety with a minimal structure for easy reading.
+  A markdown-based personal journal reflecting on smoking, lifestyle, and anxiety with a minimal
+  structure for easy reading.
 tags:
   - markdown
   - personal journal
@@ -23,8 +23,8 @@ seoSecondaryKeywords:
   - static site blog
   - minimal markdown format
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -73,3 +73,4 @@ images/      # Folder for images referenced in markdown (assumed)
 ---
 
 *Note: This repository functions primarily as a personal journal or blog content archive rather than a software project.*
+
