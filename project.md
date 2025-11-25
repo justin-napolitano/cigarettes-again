@@ -1,20 +1,28 @@
 ---
 slug: github-cigarettes-again
 id: github-cigarettes-again
-title: cigarettes-again
+title: Personal Journal Repository for Reflective Writing
 repo: justin-napolitano/cigarettes-again
 githubUrl: https://github.com/justin-napolitano/cigarettes-again
 generatedAt: '2025-11-24T21:34:13.005Z'
 source: github-auto
 summary: >-
-  A personal reflective journal repository capturing thoughts and feelings
-  around smoking cigarettes, lifestyle, and anxiety. This repository contains
-  markdown files documenting personal experiences and musings in a simple,
-  minimal format.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A markdown-based personal journal capturing thoughts on smoking, lifestyle,
+  and anxiety.
+tags:
+  - markdown
+  - personal journal
+  - static site generator
+  - anxiety
+  - lifestyle
+seoPrimaryKeyword: personal journal markdown
+seoSecondaryKeywords:
+  - reflective writing
+  - markdown viewer
+  - blog content archive
+  - static site deployment
+  - anxiety reflections
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
